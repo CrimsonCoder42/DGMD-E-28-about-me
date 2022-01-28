@@ -1,0 +1,51 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+form{
+    margin: auto;
+    height: 600px;
+    width: 600px;
+}
+
+img{
+    width: 600px;
+    height: 300px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0d6efd;
+    color: white;
+    text-align: center;
+  }
+.row{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#myLocation{
+    margin-top: 100px
+}
+
+#major{
+    margin-top: 100px
+}
+
+#littleMe{
+    margin-top: 100px
+}
+
+#favPlace{
+    margin-top: 100px
+}
+
+#favEats{
+    margin-top: 100px;
+    margin-bottom: 100px
+}
